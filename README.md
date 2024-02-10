@@ -1,6 +1,7 @@
 ### hi hello im fish
 ---
 a random teen born in russia, siberia
+
 used to create unity mobile games, but currently focusing on creating assets
 
 i may or may not put some of my projects here
