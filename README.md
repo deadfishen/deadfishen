@@ -1,4 +1,7 @@
-### Hi there 👋
+### hi hello im fish
+---
+a random teen born in russia, siberia
+used to create unity mobile games, but currently focusing on creating assets
 
 <!--
 **deadfishen/deadfishen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
